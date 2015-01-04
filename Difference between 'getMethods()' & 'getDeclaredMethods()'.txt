@@ -1,0 +1,6 @@
+'getDeclaredMethods()' will give the list of only those method(including 'private','protected' and 'default' methods) which are 
+persent in the current class.It does not give the list of the methods inherited from parent class or interface.
+
+
+On the other hand 'getMethods()' will give the list of ALL the PUBLIC methods(including the methods which are inherited from 
+parent class or interfaces.).BUT it does not give the list of 'private','protected' and 'default' methods. 

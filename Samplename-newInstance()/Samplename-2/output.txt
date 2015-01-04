@@ -1,0 +1,4 @@
+Temp
+Default constructor
+Creation of object via reflection
+java.lang.Thread
